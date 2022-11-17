@@ -1,0 +1,724 @@
+{
+  "albums": {
+    "album01": {
+      "albumName": "Rock States Volume 3",
+      "artistName": "Freeplay Music",
+      "composerName": "Freeplay Music",
+      "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/rock_states_vol3_fe3a8c2d66.jpg",
+      "genre": "Rock",
+      "trackList": [
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/rock_states_vol3_fe3a8c2d66.jpg",
+          "genre": "None",
+          "id": "01",
+          "musicTitle": "Cash Out",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/cash_out_688d2a5d57.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/rock_states_vol3_fe3a8c2d66.jpg",
+          "genre": "None",
+          "id": "02",
+          "musicTitle": "Crystal Gems",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/crystal_gems_ae6c065d92.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/rock_states_vol3_fe3a8c2d66.jpg",
+          "genre": "None",
+          "id": "03",
+          "musicTitle": "Everybody Feels",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/everybody_feels_2604d42441.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/rock_states_vol3_fe3a8c2d66.jpg",
+          "genre": "None",
+          "id": "04",
+          "musicTitle": "Family Strong",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/family_strong_93354dc6ff.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/rock_states_vol3_fe3a8c2d66.jpg",
+          "genre": "None",
+          "id": "05",
+          "musicTitle": "I Am Stronger",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/i_am_stronger_5d893506f4.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/rock_states_vol3_fe3a8c2d66.jpg",
+          "genre": "None",
+          "id": "06",
+          "musicTitle": "Play Outdoors",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/play_outdoors_52a3cc923d.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/rock_states_vol3_fe3a8c2d66.jpg",
+          "genre": "None",
+          "id": "07",
+          "musicTitle": "Shindig",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/shindig_a55cd84553.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/rock_states_vol3_fe3a8c2d66.jpg",
+          "genre": "None",
+          "id": "08",
+          "musicTitle": "Soft Punch",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/soft_punch_f23f2e331d.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/rock_states_vol3_fe3a8c2d66.jpg",
+          "genre": "None",
+          "id": "09",
+          "musicTitle": "Soul Down",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/soul_down_841402d724.mp3"
+        }
+      ]
+    },
+    "album02": {
+      "albumName": "Blue Beats Volume 1",
+      "artistName": "Freeplay Music",
+      "composerName": "Freeplay Music",
+      "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/blue_beats_volume_1_89322348af.jpg",
+      "genre": "Rock",
+      "trackList": [
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/blue_beats_volume_1_89322348af.jpg",
+          "genre": "None",
+          "id": "01",
+          "musicTitle": "An Accident",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/an_accident_311786ae7a.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/blue_beats_volume_1_89322348af.jpg",
+          "genre": "None",
+          "id": "02",
+          "musicTitle": "Cold Coffee",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/cold_coffee_5e9b5e6ce8.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/blue_beats_volume_1_89322348af.jpg",
+          "genre": "None",
+          "id": "03",
+          "musicTitle": "Fur Ball",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/fur_ball_829a105436.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/blue_beats_volume_1_89322348af.jpg",
+          "genre": "None",
+          "id": "04",
+          "musicTitle": "Hanging On The Line",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/hanging_on_the_line_9e44544f0a.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/blue_beats_volume_1_89322348af.jpg",
+          "genre": "None",
+          "id": "05",
+          "musicTitle": "I'm In",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/i_m_in_81113eb7f2.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/blue_beats_volume_1_89322348af.jpg",
+          "genre": "None",
+          "id": "06",
+          "musicTitle": "Paper Jets",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/paper_jets_63a52a8446.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/blue_beats_volume_1_89322348af.jpg",
+          "genre": "None",
+          "id": "07",
+          "musicTitle": "Walk Away",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/walk_away_bae36c6f9f.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/blue_beats_volume_1_89322348af.jpg",
+          "genre": "None",
+          "id": "08",
+          "musicTitle": "Wet Look",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/wet_look_562d21808b.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/blue_beats_volume_1_89322348af.jpg",
+          "genre": "None",
+          "id": "09",
+          "musicTitle": "Gold Cup",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/gold_cup_1_c6dbedbcb7.mp3"
+        }
+      ]
+    },
+    "album03": {
+      "albumName": "Garage Rock Revival",
+      "artistName": "Freeplay Music",
+      "composerName": "Freeplay Music",
+      "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/garage_rock_revival_9b0074a837.jpeg",
+      "genre": "Rock",
+      "trackList": [
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/garage_rock_revival_9b0074a837.jpeg",
+          "genre": "None",
+          "id": "01",
+          "musicTitle": "Another One To Tell R",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/another_one_to_tell_r_82f72c9b89.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/garage_rock_revival_9b0074a837.jpeg",
+          "genre": "None",
+          "id": "02",
+          "musicTitle": "Desert Of Courage S",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/desert_of_courage_s_6121d7165c.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/garage_rock_revival_9b0074a837.jpeg",
+          "genre": "None",
+          "id": "03",
+          "musicTitle": "Down To The Last Second",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/down_to_the_last_second_2c20bfeee3.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/garage_rock_revival_9b0074a837.jpeg",
+          "genre": "None",
+          "id": "04",
+          "musicTitle": "Futuristic Sucker",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/futuristic_sucker_4e2f60e355.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/garage_rock_revival_9b0074a837.jpeg",
+          "genre": "None",
+          "id": "05",
+          "musicTitle": "Humility Detox",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/humility_detox_0ffcd6841f.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/garage_rock_revival_9b0074a837.jpeg",
+          "genre": "None",
+          "id": "06",
+          "musicTitle": "Illusions Are Indestructable",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/illusions_are_indestructable_1badced073.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/garage_rock_revival_9b0074a837.jpeg",
+          "genre": "None",
+          "id": "07",
+          "musicTitle": "Imitations Are No Excuse",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/imitations_are_no_excuse_56011392bd.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/garage_rock_revival_9b0074a837.jpeg",
+          "genre": "None",
+          "id": "08",
+          "musicTitle": "Rockin Woman",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/rockin_woman_022732f33c.mp3"
+        }
+      ]
+    },
+    "album04": {
+      "albumName": "Country Time",
+      "artistName": "Freeplay Music",
+      "composerName": "Freeplay Music",
+      "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/country_time_cc3bc8f746.jpeg",
+      "genre": "Rock",
+      "trackList": [
+        {
+          "artistName": "Country Time",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/country_time_cc3bc8f746.jpeg",
+          "genre": "None",
+          "id": "01",
+          "musicTitle": "Always Leaving",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/always_leaving_844018ace7.mp3"
+        },
+        {
+          "artistName": "Country Time",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/country_time_cc3bc8f746.jpeg",
+          "genre": "None",
+          "id": "02",
+          "musicTitle": "Anarchy Isnt A Choice",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/anarchy_isnt_a_choice_9891a0ce7f.mp3"
+        },
+        {
+          "artistName": "Country Time",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/country_time_cc3bc8f746.jpeg",
+          "genre": "None",
+          "id": "03",
+          "musicTitle": "Backhanded Devastation",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/backhanded_devastation_f922b8067f.mp3"
+        },
+        {
+          "artistName": "Country Time",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/country_time_cc3bc8f746.jpeg",
+          "genre": "None",
+          "id": "04",
+          "musicTitle": "Broken Screams",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/broken_screams_fe4171b870.mp3"
+        },
+        {
+          "artistName": "Country Time",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/country_time_cc3bc8f746.jpeg",
+          "genre": "None",
+          "id": "05",
+          "musicTitle": "Cant Get Over You",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/cant_get_over_you_dd74c804a4.mp3"
+        },
+        {
+          "artistName": "Country Time",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/country_time_cc3bc8f746.jpeg",
+          "genre": "None",
+          "id": "06",
+          "musicTitle": "Dont Touch The Lies",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/dont_touch_the_lies_46d1c1492d.mp3"
+        },
+        {
+          "artistName": "Country Time",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/country_time_cc3bc8f746.jpeg",
+          "genre": "None",
+          "id": "07",
+          "musicTitle": "Fantastic Urges",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/fantastic_urges_f488eb1537.mp3"
+        },
+        {
+          "artistName": "Country Time",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/country_time_cc3bc8f746.jpeg",
+          "genre": "None",
+          "id": "08",
+          "musicTitle": "Fears Without You",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/fears_without_you_5b2c2514fc.mp3"
+        },
+        {
+          "artistName": "Country Time",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/country_time_cc3bc8f746.jpeg",
+          "genre": "None",
+          "id": "09",
+          "musicTitle": "Golden Smiles",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/golden_smiles_1e5937f339.mp3"
+        },
+        {
+          "artistName": "Country Time",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/country_time_cc3bc8f746.jpeg",
+          "genre": "None",
+          "id": "10",
+          "musicTitle": "Hard Ride",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/hard_ride_016ab485fc.mp3"
+        }
+      ]
+    },
+    "album05": {
+      "albumName": "Outer Space",
+      "artistName": "Freeplay Music",
+      "composerName": "Freeplay Music",
+      "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/outer_space_7f364c5fcf.jpeg",
+      "genre": "Rock",
+      "trackList": [
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/outer_space_7f364c5fcf.jpeg",
+          "genre": "None",
+          "id": "01",
+          "musicTitle": "Asteroid Belt",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/asteroid_belt_289c527e62.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/outer_space_7f364c5fcf.jpeg",
+          "genre": "None",
+          "id": "02",
+          "musicTitle": "Creature From Outer Space",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/creature_from_outer_space_1c199c9107.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/outer_space_7f364c5fcf.jpeg",
+          "genre": "None",
+          "id": "03",
+          "musicTitle": "Digital Imprint",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/digital_imprint_8a3d4f27d3.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/outer_space_7f364c5fcf.jpeg",
+          "genre": "None",
+          "id": "04",
+          "musicTitle": "Electro-Robot Mix",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/electro_robot_mix_768853a5db.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/outer_space_7f364c5fcf.jpeg",
+          "genre": "None",
+          "id": "05",
+          "musicTitle": "Glow",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/glow_f869763992.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/outer_space_7f364c5fcf.jpeg",
+          "genre": "None",
+          "id": "06",
+          "musicTitle": "Looking At The Sky",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/looking_at_the_sky_cd17deb9ca.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/outer_space_7f364c5fcf.jpeg",
+          "genre": "None",
+          "id": "07",
+          "musicTitle": "Sanctify Yourself",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/sanctify_yourself_22573332f4.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/outer_space_7f364c5fcf.jpeg",
+          "genre": "None",
+          "id": "08",
+          "musicTitle": "Universe",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/universe_48ef770387.mp3"
+        }
+      ]
+    },
+    "album06": {
+      "albumName": "Winter Light",
+      "artistName": "Freeplay Music",
+      "composerName": "Freeplay Music",
+      "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/winter_light_f6802898a2.jpeg",
+      "genre": "Rock",
+      "trackList": [
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/winter_light_f6802898a2.jpeg",
+          "genre": "None",
+          "id": "01",
+          "musicTitle": "Alone In My Chair",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/alone_in_my_chair_866a997f69.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/winter_light_f6802898a2.jpeg",
+          "genre": "None",
+          "id": "02",
+          "musicTitle": "Another Business",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/another_business_9e5637b832.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/winter_light_f6802898a2.jpeg",
+          "genre": "None",
+          "id": "03",
+          "musicTitle": "Busted With a Big Bag of Glitter",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/busted_with_a_big_bag_of_glitter_a186b24014.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/winter_light_f6802898a2.jpeg",
+          "genre": "None",
+          "id": "04",
+          "musicTitle": "California Judgements",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/california_judgements_b9a756b0b8.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/winter_light_f6802898a2.jpeg",
+          "genre": "None",
+          "id": "05",
+          "musicTitle": "Choir Sound",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/choir_sound_d2011aae4f.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/winter_light_f6802898a2.jpeg",
+          "genre": "None",
+          "id": "06",
+          "musicTitle": "Cold Heaven",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/cold_heaven_b34cd53faf.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/winter_light_f6802898a2.jpeg",
+          "genre": "None",
+          "id": "07",
+          "musicTitle": "Dark Heart",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/dark_heart_b9f940f9ab.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/winter_light_f6802898a2.jpeg",
+          "genre": "None",
+          "id": "08",
+          "musicTitle": "Lake Ponchartrain",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/lake_ponchartrain_59a4074ca0.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/winter_light_f6802898a2.jpeg",
+          "genre": "None",
+          "id": "09",
+          "musicTitle": "Night Time Phenomena",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/night_time_phenomena_8149d2a06a.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/winter_light_f6802898a2.jpeg",
+          "genre": "None",
+          "id": "10",
+          "musicTitle": "Rich Confessions",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/rich_confessions_b394632fe1.mp3"
+        }
+      ]
+    },
+    "album07": {
+      "albumName": "Sports Center",
+      "artistName": "Freeplay Music",
+      "composerName": "Freeplay Music",
+      "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/sports_center_45f45f6728.jpeg",
+      "genre": "Rock",
+      "trackList": [
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/sports_center_45f45f6728.jpeg",
+          "genre": "None",
+          "id": "01",
+          "musicTitle": "Alcoholic Forest",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/alcoholic_forest_2875d2bb66.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/sports_center_45f45f6728.jpeg",
+          "genre": "None",
+          "id": "02",
+          "musicTitle": "Explosive Riff",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/explosive_riff_362e84ee8e.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/sports_center_45f45f6728.jpeg",
+          "genre": "None",
+          "id": "03",
+          "musicTitle": "Good For Nothing Renegade",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/good_for_nothing_renegade_e019a21216.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/sports_center_45f45f6728.jpeg",
+          "genre": "None",
+          "id": "04",
+          "musicTitle": "Holy Highway",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/holy_highway_80112b0e64.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/sports_center_45f45f6728.jpeg",
+          "genre": "None",
+          "id": "05",
+          "musicTitle": "I Can Smell Your Creativity",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/i_can_smell_your_creativity_1_23cc865977.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/sports_center_45f45f6728.jpeg",
+          "genre": "None",
+          "id": "06",
+          "musicTitle": "I Like Wishes",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/i_like_wishes_2e495acd06.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/sports_center_45f45f6728.jpeg",
+          "genre": "None",
+          "id": "07",
+          "musicTitle": "Justify Your Actions",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/justify_your_actions_5d1895221a.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/sports_center_45f45f6728.jpeg",
+          "genre": "None",
+          "id": "08",
+          "musicTitle": "Not That Tough",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/not_that_tough_4dc4436087.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/sports_center_45f45f6728.jpeg",
+          "genre": "None",
+          "id": "09",
+          "musicTitle": "Red Rainbow",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/red_rainbow_0c19b374db.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/sports_center_45f45f6728.jpeg",
+          "genre": "None",
+          "id": "10",
+          "musicTitle": "Rising Spell",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/rising_spell_679eb1469e.mp3"
+        }
+      ]
+    },
+    "album08": {
+      "albumName": "Big Band Ballads",
+      "artistName": "Freeplay Music",
+      "composerName": "Freeplay Music",
+      "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/big_band_ballads_e4a29d4d09.jpeg",
+      "genre": "Rock",
+      "trackList": [
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/big_band_ballads_e4a29d4d09.jpeg",
+          "genre": "None",
+          "id": "01",
+          "musicTitle": "An Act Of Pollution",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/an_act_of_pollution_1_a15e237b94.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/big_band_ballads_e4a29d4d09.jpeg",
+          "genre": "None",
+          "id": "02",
+          "musicTitle": "Anomalies Just Keep Getting Better",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/anomalies_just_keep_getting_better_2859c709c0.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/big_band_ballads_e4a29d4d09.jpeg",
+          "genre": "None",
+          "id": "03",
+          "musicTitle": "Canned Feelings",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/canned_feelings_1_b91f7e3e48.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/big_band_ballads_e4a29d4d09.jpeg",
+          "genre": "None",
+          "id": "04",
+          "musicTitle": "Dangerous Contempt",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/dangerous_contempt_0860d88aa9.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/big_band_ballads_e4a29d4d09.jpeg",
+          "genre": "None",
+          "id": "05",
+          "musicTitle": "Destiny War",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/destiny_war_53f6d7f037.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/big_band_ballads_e4a29d4d09.jpeg",
+          "genre": "None",
+          "id": "06",
+          "musicTitle": "Fantastic Joy S",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/fantastic_joy_s_f9d4b63ad2.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/big_band_ballads_e4a29d4d09.jpeg",
+          "genre": "None",
+          "id": "07",
+          "musicTitle": "Get The Risks",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/get_the_risks_7002148918.mp3"
+        },
+        {
+          "artistName": "Freeplay Music",
+          "composerName": "Freeplay Music",
+          "coverUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/big_band_ballads_e4a29d4d09.jpeg",
+          "genre": "None",
+          "id": "08",
+          "musicTitle": "I Cant Handle The Sensitivity",
+          "trackUrl": "https://freeplay-rebuild-cms-production.s3.amazonaws.com/a/i_cant_handle_the_sensitivity_84865dd18d.mp3"
+        }
+      ]
+    }
+  }
+}
